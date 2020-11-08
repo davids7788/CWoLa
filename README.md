@@ -1,2 +1,2 @@
 # CWoLa
-Complete Description and Code of my Master Thesis Project
+Short version of my Master Thesis project

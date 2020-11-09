@@ -1,5 +1,5 @@
 # CWoLa
-Short version of my Master Thesis project.
+Short version of my Master Thesis project coding
 
 Please note, that the Jupyter Notebook in this repository is NOT meant to be perfectly
 optimzed in terms of processing speed, memory usage, etc. It will only provide a 

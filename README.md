@@ -8,7 +8,7 @@ it should run through everything.
 
 Note that the working directory has to contain the following files:
 - This Jupyter Notebook
-- The folder img with the used images
+- The folder img
 - The folder Thesis_data_after_preselection
 
 The last folder has to be downloaded from:

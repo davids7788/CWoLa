@@ -11,13 +11,6 @@ Note that the working directory has to contain the following files:
 - The folder img
 - The folder Thesis_data_after_preselection
 
-The last folder has to be downloaded from:
-
-https://wolke.physnet.uni-hamburg.de/index.php/s/GkFBnYpzoqTmgr8
-
-and then unzipped into the working directory.
-
-
 ## CWoLa GAN
 
 This is just a very first try to explore GAN, but maybe a CWoLa GAN would be fun and usefull if one isn't able to provide labeled

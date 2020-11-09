@@ -16,3 +16,9 @@ The last folder has to be downloaded from:
 https://wolke.physnet.uni-hamburg.de/index.php/s/GkFBnYpzoqTmgr8
 
 and then unzipped into the working directory.
+
+
+## CWoLa GAN
+
+This is just a very first try to explore GAN, but maybe a CWoLa GAN would be fun and usefull if one isn't able to provide labeled
+data... If the discriminator might learn the original thing ( like $ttbar$ vs.QCD ) and discriminates them against fakes...
